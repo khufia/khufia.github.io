@@ -35,11 +35,11 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=qxmI8TkAAAAJ&hl=en"
-  impactstory      : # URL
-  orcid            : ""
-  semantic         : # URL
-  pubmed           : ""
-  researchgate     : # URL
+  # impactstory      : # URL
+  # orcid            : ""
+  # semantic         : # URL
+  # pubmed           : ""
+  # researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
