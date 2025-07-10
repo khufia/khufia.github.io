@@ -22,7 +22,7 @@ repository               : "khufia/khufia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Ghazi Shazan Ahmad"
   pronouns         : # example: "she/her"  
   bio              : "Masters student @ MBZUAI"
