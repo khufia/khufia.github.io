@@ -14,7 +14,7 @@ I'm a Masters student in Computer Vision at [Mohamed Bin Zayed University of Art
 News
 ======
 - [July 2025] - Our **One Last Attention for your Vision-Language Model** has been accepted at ICCV 2025. See y'all in Hawaii
-- [June 2025] - We release **VideoMolmo: Spatio-Temporal Grounding meets Pointing** - Check out our preprint and code.
+- [June 2025] - We release [**VideoMolmo: Spatio-Temporal Grounding meets Pointing**](https://github.com/mbzuai-oryx/VideoMolmo) - Check out our preprint and code.
 - [May 2025] - Started a summer internship at [Inception](https://inceptionai.ai/) working with [Prof. Boulbaba](https://sites.google.com/view/boulbaba-ben-amor)
 - [April 2024] - Our paper **ScaleViz: Scaling Visualization Recommendation Models on Large Data** has been accpeted at PAKDD 2024 as an oral.
   
@@ -22,13 +22,13 @@ News
 Selected Publications
 ======
 
-- **Ghazi Shazan Ahmad**, Heakl A, Gani H, Shaker A, Shen Z, Krishna R, Khan F.S., Khan S, [VideoMolmo: Spatio-Temporal Grounding meets Pointing](https://arxiv.org/abs/placeholder), Under Review.
+- **Ghazi Shazan Ahmad**, Heakl A, Gani H, Shaker A, Shen Z, Krishna R, Khan F.S., Khan S, [VideoMolmo: Spatio-Temporal Grounding meets Pointing](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qxmI8TkAAAAJ&citation_for_view=qxmI8TkAAAAJ:u-x6o8ySG0sC), Under Review.
 
 - **Ghazi Shazan Ahmad***,  Chen L*, Yao T, Liu T, Shen Z, [One Last Attention for your Vision-Language Model](https://arxiv.org/abs/placeholder), ICCV-2025.
 
-- Heakl A, Sohail A, Ranjan M, Hossam R, **Ghazi Shazan Ahmad**, El-Geish M, Maher O, Shen Z, Khan F.S., Khan S, [KITAB-Bench: A Comprehensive Multi-Domain Benchmark for Arabic OCR and Document Understanding](https://arxiv.org/abs/placeholder), ACL-2025.
+- Heakl A, Sohail A, Ranjan M, Hossam R, **Ghazi Shazan Ahmad**, El-Geish M, Maher O, Shen Z, Khan F.S., Khan S, [KITAB-Bench: A Comprehensive Multi-Domain Benchmark for Arabic OCR and Document Understanding](https://arxiv.org/pdf/2502.14949), ACL-2025.
 
-- **Ghazi Shazan Ahmad**, Agarwal S, Mitra S, Rossi R, [SCALE-VIZ: A Framework for Scaling Vis-Rec Models on Large Datasets](https://arxiv.org/abs/placeholder), PAKDD-2024 (Oral).
+- **Ghazi Shazan Ahmad**, Agarwal S, Mitra S, Rossi R, [SCALE-VIZ: A Framework for Scaling Vis-Rec Models on Large Datasets](https://arxiv.org/pdf/2411.18657), PAKDD-2024 (Oral).
 
 Patents
 ======
